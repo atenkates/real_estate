@@ -88,7 +88,6 @@ comdic['Rocky River'] = []
 comdic['Detroit Shoreway'] = ['Brooklyn','Cleveland']
 comdic['Kamms Corner'] = ['Cleveland']
 comdic['Parma']  = []
-comdic['']
 comdic['Ohio City'] = ['Ohio City']
 
 def comcodeMap(zipcode):
